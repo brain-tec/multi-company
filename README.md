@@ -1,6 +1,7 @@
 
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/multi-company&target_branch=13.0)
-[![Build Status](https://travis-ci.com/OCA/multi-company.svg?branch=13.0)](https://travis-ci.com/OCA/multi-company)
+[![Pre-commit Status](https://github.com/OCA/multi-company/actions/workflows/pre-commit.yml/badge.svg?branch=13.0)](https://github.com/OCA/multi-company/actions/workflows/pre-commit.yml?query=branch%3A13.0)
+[![Build Status](https://github.com/OCA/multi-company/actions/workflows/test.yml/badge.svg?branch=13.0)](https://github.com/OCA/multi-company/actions/workflows/test.yml?query=branch%3A13.0)
 [![codecov](https://codecov.io/gh/OCA/multi-company/branch/13.0/graph/badge.svg)](https://codecov.io/gh/OCA/multi-company)
 [![Translation Status](https://translation.odoo-community.org/widgets/multi-company-13-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/multi-company-13-0/?utm_source=widget)
 
@@ -20,7 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[account_invoice_inter_company](account_invoice_inter_company/) | 13.0.2.0.8 |  | Intercompany invoice rules
+[account_invoice_inter_company](account_invoice_inter_company/) | 13.0.2.1.0 |  | Intercompany invoice rules
 [account_multicompany_easy_creation](account_multicompany_easy_creation/) | 13.0.1.0.4 |  | This module adds a wizard to create companies easily
 [base_multi_company](base_multi_company/) | 13.0.1.0.3 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Provides a base for adding multi-company support to models.
 [company_dependent_attribute](company_dependent_attribute/) | 13.0.1.0.0 |  | Display company dependent attribute on fields
