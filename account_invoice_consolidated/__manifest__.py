@@ -4,13 +4,13 @@
 
 {
     'name': 'Account Invoice Consolidated',
-    'version': '12.0.1.1.0',
+    'version': '12.0.1.1.1',
     'summary': 'Consolidate your invoices across companies',
     'author': 'Open Source Integrators, '
               'Serpent Consulting Services Pvt. Ltd., '
               'Odoo Community Association (OCA)',
     'category': 'Invoicing Management',
-    'website': 'https://github.com/OCA/account-consolidation',
+    'website': 'https://github.com/OCA/multi-company',
     'license': 'AGPL-3',
     'depends': [
         'account'

@@ -6,9 +6,9 @@
 {
     'name': 'Inter Company Module for Purchase to Sale Order',
     'summary': 'Intercompany PO/SO rules',
-    'version': '12.0.1.2.0',
+    'version': '12.0.1.2.1',
     'category': 'Purchase Management',
-    'website': 'http://www.github.com/OCA/multi-company',
+    'website': 'https://github.com/OCA/multi-company',
     'author': 'Odoo SA, '
               'Akretion, '
               'Tecnativa, '
