@@ -21,7 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[account_invoice_inter_company](account_invoice_inter_company/) | 16.0.1.0.2 |  | Intercompany invoice rules
+[account_invoice_inter_company](account_invoice_inter_company/) | 16.0.1.1.0 |  | Intercompany invoice rules
 [account_multicompany_easy_creation](account_multicompany_easy_creation/) | 16.0.1.0.0 |  | This module adds a wizard to create companies easily
 [account_reconcile_model_multicompany_propagate](account_reconcile_model_multicompany_propagate/) | 16.0.1.2.0 | [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) | Propagate account reconcile model in companies with same chart template
 [base_multi_company](base_multi_company/) | 16.0.1.0.2 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Provides a base for adding multi-company support to models.
@@ -29,6 +29,7 @@ addon | version | maintainers | summary
 [mail_multicompany](mail_multicompany/) | 16.0.1.1.0 | [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Email Gateway Multi company
 [mail_template_multi_company](mail_template_multi_company/) | 16.0.1.0.0 | [![Olivier-LAURENT](https://github.com/Olivier-LAURENT.png?size=30px)](https://github.com/Olivier-LAURENT) | Mail Template Multi Company
 [partner_multi_company](partner_multi_company/) | 16.0.1.0.1 |  | Select individually the partner visibility on each company
+[pos_restaurant_multi_company](pos_restaurant_multi_company/) | 16.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | This module adds support for multi company on PoS Restaurant.
 [product_account_multicompany_default](product_account_multicompany_default/) | 16.0.0.1.0 | [![yajo](https://github.com/yajo.png?size=30px)](https://github.com/yajo) | Set a default account for all companies of a product
 [product_category_company](product_category_company/) | 16.0.1.0.1 |  | Product categories as company dependent
 [product_category_company_favorite](product_category_company_favorite/) | 16.0.1.0.1 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Possilibity to set favorite product categories per company
