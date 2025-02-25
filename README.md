@@ -29,6 +29,7 @@ addon | version | maintainers | summary
 [calendar_event_multi_company](calendar_event_multi_company/) | 16.0.1.0.0 |  | This module add multi-company management to calendar events
 [calendar_event_type_multi_company](calendar_event_type_multi_company/) | 16.0.1.0.0 |  | This module add multi-company management to calendar event type
 [company_dependent_flag](company_dependent_flag/) | 16.0.1.0.2 |  | Apply css style to company dependent fields
+[crm_lost_reason_multi_company](crm_lost_reason_multi_company/) | 16.0.1.0.0 |  | This module add multi-company management to crm lost reason
 [crm_stage_multi_company](crm_stage_multi_company/) | 16.0.1.0.0 |  | This module adds support for multi company on crm stage.
 [crm_tag_multi_company](crm_tag_multi_company/) | 16.0.1.0.0 |  | This module add multi-company management to crm tag
 [crm_tag_multi_company_event_crm](crm_tag_multi_company_event_crm/) | 16.0.1.0.0 |  | Ensure multi-company check in event lead rules tag ids
@@ -39,6 +40,9 @@ addon | version | maintainers | summary
 [mail_multicompany](mail_multicompany/) | 16.0.2.0.0 | [![luisg123v](https://github.com/luisg123v.png?size=30px)](https://github.com/luisg123v) | Email Gateway Multi company
 [mail_template_multi_company](mail_template_multi_company/) | 16.0.1.0.0 | [![Olivier-LAURENT](https://github.com/Olivier-LAURENT.png?size=30px)](https://github.com/Olivier-LAURENT) | Mail Template Multi Company
 [partner_account_multicompany_default](partner_account_multicompany_default/) | 16.0.0.1.0 | [![camptocamp](https://github.com/camptocamp.png?size=30px)](https://github.com/camptocamp) | Set a default account for all companies of a partners
+[partner_category_multi_company](partner_category_multi_company/) | 16.0.1.0.0 |  | This module add multi-company management to partner categories
+[partner_category_multi_company_account](partner_category_multi_company_account/) | 16.0.1.0.0 |  | Multi-company check in Matching partner categories
+[partner_category_multi_company_analytic](partner_category_multi_company_analytic/) | 16.0.1.0.0 |  | Multi-company check in Partner categories
 [partner_multi_company](partner_multi_company/) | 16.0.2.0.0 |  | Select individually the partner visibility on each company
 [pos_category_multicompany](pos_category_multicompany/) | 16.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) [![quentinDupont](https://github.com/quentinDupont.png?size=30px)](https://github.com/quentinDupont) | Point of Sale Category in Multi company context
 [pos_restaurant_multi_company](pos_restaurant_multi_company/) | 16.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | This module adds support for multi company on PoS Restaurant.
