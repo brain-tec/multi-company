@@ -23,10 +23,10 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [account_invoice_inter_company](account_invoice_inter_company/) | 13.0.2.1.4 |  | Intercompany invoice rules
 [account_multicompany_easy_creation](account_multicompany_easy_creation/) | 13.0.1.0.4 |  | This module adds a wizard to create companies easily
-[base_multi_company](base_multi_company/) | 13.0.1.0.3 | [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Provides a base for adding multi-company support to models.
+[base_multi_company](base_multi_company/) | 13.0.1.0.3 | <a href='https://github.com/pedrobaeza'><img src='https://github.com/pedrobaeza.png' width='32' height='32' style='border-radius:50%;' alt='pedrobaeza'/></a> | Provides a base for adding multi-company support to models.
 [company_dependent_attribute](company_dependent_attribute/) | 13.0.1.0.0 |  | Display company dependent attribute on fields
 [mail_multicompany](mail_multicompany/) | 13.0.0.1.0 |  | Email Gateway Multi company
-[mail_template_multi_company](mail_template_multi_company/) | 13.0.1.0.0 | [![Olivier-LAURENT](https://github.com/Olivier-LAURENT.png?size=30px)](https://github.com/Olivier-LAURENT) | Mail Template Multi Company
+[mail_template_multi_company](mail_template_multi_company/) | 13.0.1.0.0 | <a href='https://github.com/Olivier-LAURENT'><img src='https://github.com/Olivier-LAURENT.png' width='32' height='32' style='border-radius:50%;' alt='Olivier-LAURENT'/></a> | Mail Template Multi Company
 [partner_multi_company](partner_multi_company/) | 13.0.1.0.0 |  | Select individually the partner visibility on each company
 [product_multi_company](product_multi_company/) | 13.0.2.0.1 |  | Select individually the product template visibility on each company
 [product_tax_multicompany_default](product_tax_multicompany_default/) | 13.0.1.0.0 |  | Product Tax Multi Company Default
