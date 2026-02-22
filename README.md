@@ -1,4 +1,7 @@
 
+[![Support the OCA](https://odoo-community.org/readme-banner-image)](https://odoo-community.org/get-involved?utm_source=repo-readme)
+
+# Multi company modules
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/multi-company&target_branch=14.0)
 [![Pre-commit Status](https://github.com/OCA/multi-company/actions/workflows/pre-commit.yml/badge.svg?branch=14.0)](https://github.com/OCA/multi-company/actions/workflows/pre-commit.yml?query=branch%3A14.0)
 [![Build Status](https://github.com/OCA/multi-company/actions/workflows/test.yml/badge.svg?branch=14.0)](https://github.com/OCA/multi-company/actions/workflows/test.yml?query=branch%3A14.0)
@@ -6,8 +9,6 @@
 [![Translation Status](https://translation.odoo-community.org/widgets/multi-company-14-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/multi-company-14-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
-
-# Multi company modules
 
 Addons for the management of multi company instances as well as
 
@@ -43,7 +44,7 @@ addon | version | maintainers | summary
 [product_category_inter_company](product_category_inter_company/) | 14.0.1.1.0 |  | Product categories as company dependent
 [product_multi_company](product_multi_company/) | 14.0.1.1.1 |  | Select individually the product template visibility on each company
 [product_supplierinfo_group_intercompany](product_supplierinfo_group_intercompany/) | 14.0.1.1.3 |  | Add sequence field on grouped pricelist items
-[product_supplierinfo_intercompany](product_supplierinfo_intercompany/) | 14.0.1.1.2 | <a href='https://github.com/PierrickBrun'><img src='https://github.com/PierrickBrun.png' width='32' height='32' style='border-radius:50%;' alt='PierrickBrun'/></a> <a href='https://github.com/sebastienbeau'><img src='https://github.com/sebastienbeau.png' width='32' height='32' style='border-radius:50%;' alt='sebastienbeau'/></a> <a href='https://github.com/kevinkhao'><img src='https://github.com/kevinkhao.png' width='32' height='32' style='border-radius:50%;' alt='kevinkhao'/></a> | Product SupplierInfo Intercompany
+[product_supplierinfo_intercompany](product_supplierinfo_intercompany/) | 14.0.1.1.3 | <a href='https://github.com/PierrickBrun'><img src='https://github.com/PierrickBrun.png' width='32' height='32' style='border-radius:50%;' alt='PierrickBrun'/></a> <a href='https://github.com/sebastienbeau'><img src='https://github.com/sebastienbeau.png' width='32' height='32' style='border-radius:50%;' alt='sebastienbeau'/></a> <a href='https://github.com/kevinkhao'><img src='https://github.com/kevinkhao.png' width='32' height='32' style='border-radius:50%;' alt='kevinkhao'/></a> | Product SupplierInfo Intercompany
 [product_supplierinfo_intercompany_multi_company](product_supplierinfo_intercompany_multi_company/) | 14.0.1.1.1 |  | Compatibility of product_multi_company and product_supplierinfo_intercompany
 [product_tax_multicompany_default](product_tax_multicompany_default/) | 14.0.1.2.0 | <a href='https://github.com/Shide'><img src='https://github.com/Shide.png' width='32' height='32' style='border-radius:50%;' alt='Shide'/></a> | Product Tax Multi Company Default
 [purchase_quick_intercompany](purchase_quick_intercompany/) | 14.0.0.1.1 |  | Purchase Quick Intercompany
