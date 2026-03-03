@@ -1,4 +1,7 @@
 
+[![Support the OCA](https://odoo-community.org/readme-banner-image)](https://odoo-community.org/get-involved?utm_source=repo-readme)
+
+# Tools for managing instances containing multiple companies
 [![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/multi-company&target_branch=16.0)
 [![Pre-commit Status](https://github.com/OCA/multi-company/actions/workflows/pre-commit.yml/badge.svg?branch=16.0)](https://github.com/OCA/multi-company/actions/workflows/pre-commit.yml?query=branch%3A16.0)
 [![Build Status](https://github.com/OCA/multi-company/actions/workflows/test.yml/badge.svg?branch=16.0)](https://github.com/OCA/multi-company/actions/workflows/test.yml?query=branch%3A16.0)
@@ -6,8 +9,6 @@
 [![Translation Status](https://translation.odoo-community.org/widgets/multi-company-16-0/-/svg-badge.svg)](https://translation.odoo-community.org/engage/multi-company-16-0/?utm_source=widget)
 
 <!-- /!\ do not modify above this line -->
-
-# Tools for managing instances containing multiple companies
 
 TODO: add repo description.
 
@@ -59,7 +60,7 @@ addon | version | maintainers | summary
 [project_multi_company](project_multi_company/) | 16.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | This module adds support for multi company on Project Module.
 [purchase_sale_container_deposit_inter_company](purchase_sale_container_deposit_inter_company/) | 16.0.1.0.2 |  | Add compatibility between OCA product_packaging_container_deposit and purchase_sale_inter_company
 [purchase_sale_inter_company](purchase_sale_inter_company/) | 16.0.1.1.3 |  | Intercompany PO/SO rules
-[purchase_sale_stock_inter_company](purchase_sale_stock_inter_company/) | 16.0.1.0.2 |  | Intercompany PO/SO rules with warehouse
+[purchase_sale_stock_inter_company](purchase_sale_stock_inter_company/) | 16.0.1.0.3 |  | Intercompany PO/SO rules with warehouse
 [purchase_sale_stock_inter_company_mrp](purchase_sale_stock_inter_company_mrp/) | 16.0.1.0.0 |  | Intercompany PO/SO rules with MRP
 [res_company_access_all_children](res_company_access_all_children/) | 16.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Give access to all children companies to users that have access to a parent company
 [res_company_active](res_company_active/) | 16.0.1.0.0 | <a href='https://github.com/legalsylvain'><img src='https://github.com/legalsylvain.png' width='32' height='32' style='border-radius:50%;' alt='legalsylvain'/></a> | Add the 'active' feature on company model
